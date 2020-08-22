@@ -28,3 +28,7 @@ li button {
 li input {
     margin-right: 1em;
 }
+
+.feita span {
+    text-decoration: line-through;
+}
