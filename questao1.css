@@ -1,0 +1,30 @@
+body {
+    margin: 1em;
+    font-family: sans-serif;
+    max-width: 50ch;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin-top: 1em;
+}
+
+li button {
+    margin-left: auto;
+}
+
+li input {
+    margin-right: 1em;
+}
